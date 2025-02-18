@@ -1,7 +1,7 @@
 # Machine Learning Project: Diabetes Prediction
 
 ## Overview
-This project aims to predict diabetes using machine learning techniques. The dataset used is the Pima Indians Diabetes Dataset, which contains medical data related to diabetes diagnostics. The project includes data preprocessing, model training, hyperparameter tuning, and evaluation using multiple machine learning models.
+This project aims to predict diabetes using machine learning techniques. The dataset used is the Diabetes Dataset, which contains medical data related to diabetes diagnostics. The project includes data preprocessing, model training, hyperparameter tuning, and evaluation using multiple machine learning models.
 
 ## Features
 - **Data Preprocessing**: Handling missing values, outlier removal, and feature transformation.
