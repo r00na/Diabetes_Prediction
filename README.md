@@ -1,4 +1,4 @@
-#  Machine Learning Project: Diabetes Prediction 🩺
+# Diabetes Prediction 🩺
 
 ## 🔍 Overview
 
